@@ -11,7 +11,7 @@ Pour installer ce projet sur votre machine locale, suivez les étapes suivantes 
 2. Clonez ce référentiel GitHub en utilisant la commande suivante :
 
    ```bash
-   git clone git clone https://github.com/hamzamaach/Contact-App.git 
+   git clone git clone https://github.com/hamzamaach/Contact-app-Laravel.git
    ```
 
 3. Accédez au répertoire du projet :
